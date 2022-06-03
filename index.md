@@ -12,7 +12,7 @@ postal-code: 424001
 
 
 <a href="https://20thanniversary.owasp.org/"><img src="assets/images/OWASP20thAnniversary.png" style="width: auto; height: auto;" alt="OWASP 20th Anniversary"/></a>
-  <center><div style="width: 24em; height: 12em;"><a href="https://groups.google.com/a/owasp.org/forum/embed/?place=forum/nagpur-chapter"><img src="assets/images/OWASP_Nagpur_BannerF.png" style="width: auto; height: auto;" alt="OWASP Nagpur"/></a></div></center>
+  <center><div style="width: 24em; height: 12em;"><a href="https://owasp.org/www-chapter-dhule/"><img src="assets/images/images12.jpg" style="width: auto; height: auto;" alt="OWASP Dhule"/></a></div></center>
 
 
 ## Welcome
