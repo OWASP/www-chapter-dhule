@@ -16,7 +16,7 @@ postal-code: 424001
 
 
 ## Welcome
-Welcome to OWASP Dhule Chapter.The chapter leaders are <a href="mailto:makarand.shahade@owasp.org">Makarand Shahade</a>, <a href="mailto:umakant.mandawkar@owasp.org">Umakant Mandawkar</a>, <a href="mailto:mailto:ranjit.fule@owasp.org">Ranjit Fule</a> <a href="mailto:nilesh.khandekar@owasp.org">Nilesh Khandekar</a>..The Chapter's vision is to spread awareness about the Application Security among not just the citizens of Nagpur but beyond that too.It will conduct meets every now and then about the trends in the security community.
+Welcome to OWASP Dhule Chapter.The chapter leaders are <a href="mailto:makarand.shahade@owasp.org">Makarand Shahade</a>, <a href="mailto:umakant.mandawkar@owasp.org">Umakant Mandawkar</a>, <a href="mailto:mailto:ranjit.fule@owasp.org">Ranjit Fule</a> and <a href="mailto:nilesh.khandekar@owasp.org">Nilesh Khandekar</a>..The Chapter's vision is to spread awareness about the Application Security among not just the citizens of Nagpur but beyond that too.It will conduct meets every now and then about the trends in the security community.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
