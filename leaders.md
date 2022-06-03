@@ -3,4 +3,3 @@
 * [Makarand Shahade](mailto:makarand.shahade@owasp.org)
 * [Nilesh Khandekar](mailto:nilesh.khandekar@owasp.org)
 * [Ranjit Fule](mailto:ranjit.fule@owasp.org)
-* [R Fule](mailto:ranjit.fule@owasp.org)
