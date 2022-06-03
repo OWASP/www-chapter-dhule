@@ -10,6 +10,11 @@ postal-code: 424001
 
 ---
 
+
+<a href="https://20thanniversary.owasp.org/"><img src="assets/images/OWASP20thAnniversary.png" style="width: auto; height: auto;" alt="OWASP 20th Anniversary"/></a>
+  <center><div style="width: 24em; height: 12em;"><a href="https://groups.google.com/a/owasp.org/forum/embed/?place=forum/nagpur-chapter"><img src="assets/images/OWASP_Nagpur_BannerF.png" style="width: auto; height: auto;" alt="OWASP Nagpur"/></a></div></center>
+
+
 ## Welcome
 Welcome to OWASP Nagpur Chapter.The chapter leaders are <a href="mailto:umakant.mandawkar@owasp.org">Umakant Mandawkar</a>, <a href="mailto:makarand.shahade@owasp.org">Makarand Shahade</a>, <a href="mailto:nilesh.khandekar@owasp.org">Nilesh Khandekar</a> and <a href="mailto:mailto:ranjit.fule@owasp.org">Ranjit Fule</a>.The Chapter's vision is to spread awareness about the Application Security among not just the citizens of Nagpur but beyond that too.It will conduct meets every now and then about the trends in the security community.
 
